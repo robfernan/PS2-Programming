@@ -21,7 +21,7 @@ Nero.js is a high-level, component-based framework designed to bridge modern Web
 
 - **06:** Sprite System - VRAM texture management, transparency, and 2D transforms
 - **07:** Save System - JSON persistence for Memory Cards and LocalStorage
-- **08:** 3D Render Engine - Hardware-accelerated OBJ loading and VU1 rotation
+- **08:** Physics & Collision - AABB detection, gravity, and vehicle 
 - **09:** Physics & Collision - AABB detection, gravity, and vehicle handling
 - **10:** Scene Management - State-machine for Splash → Menu → Game transitions
 - **11-15:** Visual Polish - Particles, FMV Video, Custom Fonts, and VRAM Budgeting
