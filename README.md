@@ -23,14 +23,21 @@ These nine modules represent a verified foundation of systems engineering on rea
     * **Goal:** Stream and playback 16-bit PCM WAV audio files using the PS2 SPU2 audio processor.
 * **05: XMB Wave Engine**
     * **Goal:** Create an animated procedural wave background inspired by the PlayStation XMB.
+    * ![XMB Wave Engine Output](ps2_examples/05_XMB_Wave/05_XMB_Wave.png)
 * **06: Sprite System**
     * **Goal:** Load PNG images into VRAM and render 2D sprites with positioning and movement.
 * **07: Save System & Persistence**
     * **Goal:** Implement JSON-based data saving to physical/virtual Memory Cards with universal file I/O.
 * **08: Physics & Collisions (Platformer Engine)**
     * **Goal:** Implement a solid platformer with gravity, jumping, and pixel-perfect collision detection.
+    * ![Physics and Collision Demo](ps2_examples/08_Physics_Collisions/08_Physics_collisions.png)
 * **09: Scene Management**
     * **Goal:** Implement a state machine for managing game scenes (Title, Game, Pause) with smooth transitions.
+    * <p align="center">
+      <img src="ps2_examples/09_Scene_Management/09_start_menu.png" width="30%" />
+      <img src="ps2_examples/09_Scene_Management/09_pause_menu.png" width="30%" /> 
+      <img src="ps2_examples/09_Scene_Management/09_game_view.png" width="30%" />
+    </p>
 
 ---
 
